@@ -1,0 +1,47 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://llilasbenson.github.io/mae-test-5/annotations/curanderismo-mexican-folk-healing-canvas-1-hook-lede.json",
+  "type": "AnnotationPage",
+  "label": "Hook-Lede",
+  "items": [
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "curanderismo-mexican-folk-healing-canvas-1-hook-lede-annotation-0.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "My grandmother taught me that nobody had the power, only God. But the people call you that you have the power. And a lot of people say that I have the power and I get mad because I tell them, \"Don't say that because I'm not God.\" But to my opinion, I believe that I can do mostly what they ask me to do. Only if you were born with something like a magic little stick inside of you, you can do mostly anything you want to. ",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Dolores Estrella, Healing, Curing (Medicine), Spirituality",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://llilasbenson.github.io/mae-test-5/curanderismo-mexican-folk-healing/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://llilasbenson.github.io/mae-test-5/curanderismo-mexican-folk-healing/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "6.0,34.0"
+        }
+      }
+    }
+  ]
+}

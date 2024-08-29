@@ -1,0 +1,47 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://llilasbenson.github.io/mae-test-5/annotations/curanderismo-mexican-folk-healing-canvas-1-discussing-the-the-intersections-between-medicinal-botany-and-native-based-plant-medicinal-knowlege-with-mesoamerican-indigenous-peoples-like-maya-and-mexica-.json",
+  "type": "AnnotationPage",
+  "label": "Discussing the the intersections between medicinal botany and Native-based plant medicinal knowlege with Mesoamerican indigenous peoples like Maya and Mexica.",
+  "items": [
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "curanderismo-mexican-folk-healing-canvas-1-discussing-the-the-intersections-between-medicinal-botany-and-native-based-plant-medicinal-knowlege-with-mesoamerican-indigenous-peoples-like-maya-and-mexica--annotation-0.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "One of the problems in the past, the way anthropologists have looked at Native medicine and folk medicine is that they believe the majority of medicine is magical and religious and superstitious. And they have underestimated for a very long time the powers of observation and actually what an intimate knowledge of nature Native people who live very close to nature have. One of the impetus then to change this around was the fact that there are a number of ethnobotanists, people who investigate how Native peoples classified plants botanically. And they found out that, for instance, in Mexico, that Siltal, which is a Maya group, could classify very sophisticated classifications of several thousand plants, which they could classify accurately and repetitiously, which was very astounding for most botanists because they did not think that Native people could do this kind of thing. The other thing that also prompted the reevaluation is the fact that when the hippie generation came about 20 years ago and people started using a lot of hallucinogens, they found that every hallucinogen that the Aztec said was active was, in fact, active. There were 100% on hallucinogens once he got the correct botanical identification. And so therefore, why would it be that they knew exactly which plants were hallucinogenic and then they couldn't tell anything else about other plants? ",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Bernard Ortiz de Montellano (1938 – 2016), Chicano-Boricua Center (Wayne State University), Healing, Curing (Medicine), Spirituality, Mesoamerican Indians, Botany, Indigenous peoples",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://llilasbenson.github.io/mae-test-5/curanderismo-mexican-folk-healing/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://llilasbenson.github.io/mae-test-5/curanderismo-mexican-folk-healing/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "155.0,241.0"
+        }
+      }
+    }
+  ]
+}

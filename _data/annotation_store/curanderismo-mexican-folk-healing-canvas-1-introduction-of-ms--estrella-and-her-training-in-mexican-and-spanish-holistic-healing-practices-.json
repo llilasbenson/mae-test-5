@@ -1,0 +1,47 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://llilasbenson.github.io/mae-test-5/annotations/curanderismo-mexican-folk-healing-canvas-1-introduction-of-ms--estrella-and-her-training-in-mexican-and-spanish-holistic-healing-practices-.json",
+  "type": "AnnotationPage",
+  "label": "Introduction of Ms. Estrella and her training in Mexican and Spanish holistic healing practices.",
+  "items": [
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "curanderismo-mexican-folk-healing-canvas-1-introduction-of-ms--estrella-and-her-training-in-mexican-and-spanish-holistic-healing-practices--annotation-0.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "The sign on her door read, \"Sorry, we're closed.\" But inside her flower shop, Dolores Estrella is treating the sick or troubled who travel miles to see her. She's a curandera, or folk healer, housed in the midst of a Chicano barrio. Along with the hundreds of curanderos in this country, Mrs. Estrella is practicing ancient Spanish and Aztec medicine. I'm Linda Fregoso. Curanderismo today coexist with modern scientific medicine. But for those who practice the system of healing and for those who use it, curanderismo is just as scientific because, like modern medicine, curanderismo works. In this program, I'll talk with the curandera and with two people who've studied the ancient folk medicine.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Dolores Estrella, Rosa-Linda Fregoso (1954), Healing, Curing (Medicine), Spirituality, Spirituality, Mesoamerican Indians, Mexican American, working class",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://llilasbenson.github.io/mae-test-5/curanderismo-mexican-folk-healing/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://llilasbenson.github.io/mae-test-5/curanderismo-mexican-folk-healing/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "35.0,76.0"
+        }
+      }
+    }
+  ]
+}

@@ -5,7 +5,7 @@
     "label": { "en": [ "Curanderismo, Mexican Folk Healing" ] },
     "homepage": [
       {
-        "id": "https://www.laits.utexas.edu/onda_latina/program?sernum=MAE_82_04_mp3&amp;term=",
+        "id": "https://www.laits.utexas.edu/onda_latina/program?sernum=MAE_82_04_mp3&amp;amp;term=",
         "type": "Text",
         "label": { "en": [ "Curanderismo, Mexican Folk Healing" ] },
         "format": "text/html"
@@ -23,6 +23,72 @@
         "id": "https://llilasbenson.github.io/mae-test-5/curanderismo-mexican-folk-healing/canvas-1/canvas",
         "type": "Canvas",
         "duration": 1508.0,
+        "annotations": [
+          
+          {
+            "type": "AnnotationPage",
+            "id": "https://llilasbenson.github.io/mae-test-5/annotations/curanderismo-mexican-folk-healing-canvas-1-provides-context-for-the-breadth-of-ortiz-s-knowledge-regarlding-plant-medicine-and-spiritual-knowledge-systems-.json",
+            "label": {
+              "none": ["Provides context for the breadth of Ortiz's knowledge regarlding plant medicine and spiritual knowledge systems."]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://llilasbenson.github.io/mae-test-5/annotations/curanderismo-mexican-folk-healing-canvas-1-music-interlude-of-folk-inspired-music.json",
+            "label": {
+              "none": ["Music interlude of folk-inspired music"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://llilasbenson.github.io/mae-test-5/annotations/curanderismo-mexican-folk-healing-canvas-1-further-explanation-on-experiments-conducted-with-medicinal-plants-by-indigenous-peoples-with-putumayo-regions-of-colombia-and-mexica-people-in-the-past-.json",
+            "label": {
+              "none": ["Further explanation on experiments conducted with medicinal plants by indigenous peoples with Putumayo regions of Colombia and Mexica people in the past."]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://llilasbenson.github.io/mae-test-5/annotations/curanderismo-mexican-folk-healing-canvas-1-establishing-a-background-on-the-origins-of-curanderismo-or-folk-medicine-for-chicana-o-xs.json",
+            "label": {
+              "none": ["Establishing a background on the origins of curanderismo or folk medicine for Chicana-o-xs"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://llilasbenson.github.io/mae-test-5/annotations/curanderismo-mexican-folk-healing-canvas-1-discussing-the-the-intersections-between-medicinal-botany-and-native-based-plant-medicinal-knowlege-with-mesoamerican-indigenous-peoples-like-maya-and-mexica-.json",
+            "label": {
+              "none": ["Discussing the the intersections between medicinal botany and Native-based plant medicinal knowlege with Mesoamerican indigenous peoples like Maya and Mexica."]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://llilasbenson.github.io/mae-test-5/annotations/curanderismo-mexican-folk-healing-canvas-1-hook-lede.json",
+            "label": {
+              "none": ["Hook-Lede"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://llilasbenson.github.io/mae-test-5/annotations/curanderismo-mexican-folk-healing-canvas-1-program-opening.json",
+            "label": {
+              "none": ["Program opening"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://llilasbenson.github.io/mae-test-5/annotations/curanderismo-mexican-folk-healing-canvas-1-introduction-of-ms--estrella-and-her-training-in-mexican-and-spanish-holistic-healing-practices-.json",
+            "label": {
+              "none": ["Introduction of Ms. Estrella and her training in Mexican and Spanish holistic healing practices."]
+            }
+          }
+        ],
         "items": [
           {
             "id": "https://llilasbenson.github.io/mae-test-5/curanderismo-mexican-folk-healing/canvas-1/paintings",

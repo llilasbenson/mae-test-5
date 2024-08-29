@@ -1,0 +1,47 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://llilasbenson.github.io/mae-test-5/annotations/curanderismo-mexican-folk-healing-canvas-1-program-opening.json",
+  "type": "AnnotationPage",
+  "label": "Program opening",
+  "items": [
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "curanderismo-mexican-folk-healing-canvas-1-program-opening-annotation-0.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "From Communications Center, the University of Texas at Austin, this is The Mexican American Experience.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Announcer, Program opening",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://llilasbenson.github.io/mae-test-5/curanderismo-mexican-folk-healing/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://llilasbenson.github.io/mae-test-5/curanderismo-mexican-folk-healing/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1.0,5.0"
+        }
+      }
+    }
+  ]
+}

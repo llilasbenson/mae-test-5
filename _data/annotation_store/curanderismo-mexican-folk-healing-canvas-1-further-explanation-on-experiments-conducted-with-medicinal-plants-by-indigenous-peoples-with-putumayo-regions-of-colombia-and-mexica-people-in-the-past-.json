@@ -1,0 +1,53 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://llilasbenson.github.io/mae-test-5/annotations/curanderismo-mexican-folk-healing-canvas-1-further-explanation-on-experiments-conducted-with-medicinal-plants-by-indigenous-peoples-with-putumayo-regions-of-colombia-and-mexica-people-in-the-past-.json",
+  "type": "AnnotationPage",
+  "label": "Further explanation on experiments conducted with medicinal plants by indigenous peoples with Putumayo regions of Colombia and Mexica people in the past.",
+  "items": [
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "curanderismo-mexican-folk-healing-canvas-1-further-explanation-on-experiments-conducted-with-medicinal-plants-by-indigenous-peoples-with-putumayo-regions-of-colombia-and-mexica-people-in-the-past--annotation-0.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Also, there's some evidence that they did some experimental work in terms of the experimented. This is not with the Aztec. This is in Colombia. But a friend of mine is a phytochemist, somebody studies the chemistry of plants. Spent a long season with a curandero in Colombia up a river called the Putumayo Region. And he found that this curandero kept monkeys around, that he seemed to be experimenting with the monkeys, giving drugs to the monkeys to see what effects they would do, which is very advanced because monkeys are the best animal model of humans that we have and we use at the final stage in testing drugs. Before humans, we use monkeys. And so that's very sophisticated. We have some indications that the Aztecs also did some research and investigations in plants in an experimental, empirical way, not just a magical approach. ",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Bernard Ortiz de Montellano (1938 – 2016), Chicano-Boricua Center (Wayne State University), Healing, Curing (Medicine), Siona Indians, Mexica (Aztec)",
+          "format": "text/plain",
+          "purpose": "tagging"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Science, Botany, Plant physiology, Botanical chemistry, Indigenous peoples",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://llilasbenson.github.io/mae-test-5/curanderismo-mexican-folk-healing/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://llilasbenson.github.io/mae-test-5/curanderismo-mexican-folk-healing/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "242.0,296.0"
+        }
+      }
+    }
+  ]
+}

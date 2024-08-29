@@ -1,0 +1,53 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://llilasbenson.github.io/mae-test-5/annotations/curanderismo-mexican-folk-healing-canvas-1-provides-context-for-the-breadth-of-ortiz-s-knowledge-regarlding-plant-medicine-and-spiritual-knowledge-systems-.json",
+  "type": "AnnotationPage",
+  "label": "Provides context for the breadth of Ortiz's knowledge regarlding plant medicine and spiritual knowledge systems.",
+  "items": [
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "curanderismo-mexican-folk-healing-canvas-1-provides-context-for-the-breadth-of-ortiz-s-knowledge-regarlding-plant-medicine-and-spiritual-knowledge-systems--annotation-0.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "As a chemist, Dr. Ortiz focuses on the chemical composition of Aztec herbs, but he's also studied Aztec beliefs about the causes of illnesses. Dr. Ortiz says that the Aztecs knew what results an herb would produce. And because the Aztecs believed that fever was caused by an excess of hot phlegm, they would give the patient an herb which was a diuretic. ",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Rosa-Linda Fregoso (1954), Bernard Ortiz de Montellano (1938 – 2016), Healing, Curing (Medicine), Mexica (Aztec)",
+          "format": "text/plain",
+          "purpose": "tagging"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Science, Botany, Plant physiology, Botanical chemistry, Indigenous peoples",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://llilasbenson.github.io/mae-test-5/curanderismo-mexican-folk-healing/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://llilasbenson.github.io/mae-test-5/curanderismo-mexican-folk-healing/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "297.0,319.0"
+        }
+      }
+    }
+  ]
+}

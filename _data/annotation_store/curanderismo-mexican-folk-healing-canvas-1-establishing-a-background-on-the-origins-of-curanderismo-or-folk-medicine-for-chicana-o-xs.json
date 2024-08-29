@@ -1,0 +1,47 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://llilasbenson.github.io/mae-test-5/annotations/curanderismo-mexican-folk-healing-canvas-1-establishing-a-background-on-the-origins-of-curanderismo-or-folk-medicine-for-chicana-o-xs.json",
+  "type": "AnnotationPage",
+  "label": "Establishing a background on the origins of curanderismo or folk medicine for Chicana-o-xs",
+  "items": [
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "curanderismo-mexican-folk-healing-canvas-1-establishing-a-background-on-the-origins-of-curanderismo-or-folk-medicine-for-chicana-o-xs-annotation-0.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "We all adhere in some respects to notions of folk remedies, chicken soup when you have a cold, hold your breath when you have the hiccups. Whether or not these remedies, our parents have passed onto us really work depend on our beliefs in them. And when they do work, we refer to them again and pass them on to our children. In a similar way, Chicanos have preserved notions of folk cures. Curanderismo today is based on the most advanced practices of 15th and 16th centuries. In Europe, the Hippocratic doctrine transmitted to Spain by the Moors was the most predominant medical theory. According to the Greek philosopher Hippocrates, the body was divided into four humors, each of which had two basic properties: hot or cold, wet or dry. The Europeans also had an elaborate system of herb classification. And when they arrived in Mexico, these combined with similar notions of medicine prevalent in the Aztec civilization. Dr. Bernard Ortiz de Montellano directs the Chicano-Boricua Center at Wayne State University in Michigan. He's also a chemist who has extensively studied Aztec herb usages.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Rosa-Linda Fregoso (1954), Bernard Ortiz de Montellano (1938 – 2016), Healing, Curing (Medicine), Spirituality, Mesoamerican Indians",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://llilasbenson.github.io/mae-test-5/curanderismo-mexican-folk-healing/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://llilasbenson.github.io/mae-test-5/curanderismo-mexican-folk-healing/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "88.0,154.0"
+        }
+      }
+    }
+  ]
+}
